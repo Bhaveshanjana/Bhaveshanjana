@@ -35,6 +35,6 @@ I'm from Rajasthan, India.<br><br>
 <h3 align="left">📬 Get in Touch</h3>
 <ul>
   <li>Email: <a href="mailto:bhaveshanjana58@gmail.com">bhaveshanjana@gmail.com</a></li>
-  <li>LinkedIn: <a href="www.linkedin.com/in/bhavesh-anjana" target="_blank">Bhavesh-anjana</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/bhavesh-anjana" target="_blank">Bhavesh-anjana</a></li>
   <li>Portfolio: <a href="https://bhavesh-tech.vercel.app/" target="_blank">Bhavesh</a></li>
 </ul>
