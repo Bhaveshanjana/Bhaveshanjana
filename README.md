@@ -3,14 +3,13 @@
 
 <br/>
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 <p align="left">
 I'm from Rajasthan, India.<br><br>
-- 🔭 I’m currently working on improving my skills in full-stack development.<br>
-- 📚 I'm currently learning Next.js and TypeScript.<br>
+- I’m currently working on improving my skills in full-stack development.<br>
 </p>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">Tools i use</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
   <img width="20" />
@@ -20,21 +19,13 @@ I'm from Rajasthan, India.<br><br>
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="MongoDB" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" alt="CSS3" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" height="50" alt="Motion" />
   <img width="20" />
 </div>
 
 <h3 align="left">📬 Get in Touch</h3>
 <ul>
   <li>Email: <a href="mailto:bhaveshanjana58@gmail.com">bhaveshanjana@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/bhavesh-anjana" target="_blank">Bhavesh-anjana</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/bhavesh-anjana" target="_blank">Bhavesh</a></li>
   <li>Portfolio: <a href="https://bhavesh-tech.vercel.app/" target="_blank">Bhavesh</a></li>
 </ul>
