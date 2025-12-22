@@ -5,7 +5,8 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-I'm from Rajasthan, India.<br><br>
+I'm from Rajasthan, India.<br>
+- Frontend Developer. <br>
 - I’m currently working on improving my skills in full-stack development.<br>
 </p>
 
@@ -26,6 +27,6 @@ I'm from Rajasthan, India.<br><br>
 <h3 align="left">📬 Get in Touch</h3>
 <ul>
   <li>Email: <a href="mailto:bhaveshanjana58@gmail.com">bhaveshanjana@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/bhavesh-anjana" target="_blank">Bhavesh</a></li>
-  <li>Portfolio: <a href="https://bhavesh-tech.vercel.app/" target="_blank">Bhavesh</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/bhavesh-anjana" target="_blank">Bhavesh/linkedin</a></li>
+  <li>Portfolio: <a href="https://bhavesh-tech.vercel.app/" target="_blank">Bhavesh/portfolio</a></li>
 </ul>
