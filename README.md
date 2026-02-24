@@ -7,7 +7,6 @@
 <p align="left">
 I'm from Rajasthan, India. <br>
 - Frontend Developer. <br>
-- Currently expanding into mobile development with React Native. <br>
 - Working towards full-stack proficiency. <br>
 </p>
 
@@ -16,8 +15,6 @@ I'm from Rajasthan, India. <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="50" alt="React Native" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
   <img width="20" />
