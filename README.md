@@ -8,7 +8,6 @@
 <p align="left">
 From Rajasthan, India.<br>
 Full-stack developer · automation-first workflow.<br>
-Less repeating. More shipping.<br>
 Currently learning Nakama for backend / game services.
 </p>
 
