@@ -48,7 +48,5 @@ Currently learning Nakama for backend / game services.
 <h3 align="left">📬 Get in Touch</h3>
 <ul>
   <li>Email: <a href="mailto:bhaveshanjana58@gmail.com">bhaveshanjana58@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/bhavesh-anjana" target="_blank">bhavesh-anjana</a></li>
-  <li>X: <a href="https://x.com/Bhavesh2034" target="_blank">@Bhavesh2034</a></li>
   <li>Portfolio: <a href="https://bhavesh-tech.vercel.app/" target="_blank">bhavesh-tech.vercel.app</a></li>
 </ul>
