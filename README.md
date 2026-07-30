@@ -7,7 +7,7 @@
 
 <p align="left">
 From Rajasthan, India.<br>
-Full-stack developer · automation-first workflow.<br>
+Full-stack developer<br>
 Currently learning Nakama for backend / game services.
 </p>
 
